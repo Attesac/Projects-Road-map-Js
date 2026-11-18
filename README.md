@@ -20,7 +20,7 @@ Repositório com os projetos que desenvolvo seguindo o roadmap de JavaScript do 
 
 [Grade Report Generator](https://roadmap.sh/projects/js-grade-report-generator) | Gera um relatório de notas, calculando médias e indicando a situação de cada aluno. | ✅ Concluído |
 
-[Expense Summary](https://roadmap.sh/projects/js-task-list-utilities) | Resume uma lista de despesas, calculando totais e organizando os gastos por categoria. | ✅ Concluído |
+[Expense Summary](https://roadmap.sh/projects/js-expense-summary) | Resume uma lista de despesas, calculando totais e organizando os gastos por categoria. | ✅ Concluído |
 
 [Task List Utilities](https://roadmap.sh/projects/js-task-list-utilities) | Funções utilitárias para gerenciar uma lista de tarefas: adicionar, remover, filtrar e marcar como concluídas. | ✅ Concluído |
 
