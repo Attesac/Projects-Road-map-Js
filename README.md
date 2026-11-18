@@ -12,3 +12,15 @@ Repositório com os projetos que desenvolvo seguindo o roadmap de JavaScript do 
 
 [Number Check](https://roadmap.sh/projects/js-number-checker) | Projeto em JavaScript com pequenas funções que classificam um número inteiro (positivo, negativo, zero, par ou ímpar) e uma função que reúne todas as verificações em um único objeto, como {positive: true, negative: false, zero: false, even: false, odd: true} para o número 5. | ✅ Concluído
 
+[Price Calculator](https://roadmap.sh/projects/js-price-calculator) | Calcula preços de produtos, aplicando regras como descontos e impostos. | ✅ Concluído |
+
+[Cart Total Calculator](https://roadmap.sh/projects/js-cart-total-calculator) | Calcula o valor total de um carrinho de compras somando os itens, suas quantidades e preços. | ✅ Concluído |
+
+[String Formatter](https://roadmap.sh/projects/js-string-formatter) | Funções para formatar textos, como ajustar maiúsculas e minúsculas e limpar espaços. | ✅ Concluído |
+
+[Grade Report Generator](https://roadmap.sh/projects/js-grade-report-generator) | Gera um relatório de notas, calculando médias e indicando a situação de cada aluno. | ✅ Concluído |
+
+[Expense Summary](https://roadmap.sh/projects/js-task-list-utilities) | Resume uma lista de despesas, calculando totais e organizando os gastos por categoria. | ✅ Concluído |
+
+[Task List Utilities](https://roadmap.sh/projects/js-task-list-utilities) | Funções utilitárias para gerenciar uma lista de tarefas: adicionar, remover, filtrar e marcar como concluídas. | ✅ Concluído |
+
